@@ -4,7 +4,7 @@
 - **git status**:   ワークツリーのステータスを表示  
 - **git config**:   設定周りの確認・変更  
 - **git log**:   ログを表示  
-  - `--oneline`でコミットメッセージの1行のみの一覧表示  
+  - --onelineでコミットメッセージの1行のみの一覧表示  
 - **git diff**:   ファイルの差分を表示  
 - **git add**:   ステージングエリアに追加  
 - **git commit**:   コミットの実行  
@@ -21,4 +21,4 @@
 - **git branch**:   ブランチの作成  
 - **git checkout**:   ブランチの切り替え  
 - **git merge**:   ブランチの統合  
-  - `--ff-only`: fast forward only. 変更のない統合先ブランチにマージ  
+  - --ff-only: fast forward only. 変更のない統合先ブランチにマージ  
