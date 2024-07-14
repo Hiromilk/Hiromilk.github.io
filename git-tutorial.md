@@ -22,3 +22,5 @@
 - **git checkout**:   ブランチの切り替え  
 - **git merge**:   ブランチの統合  
   - --ff-only: fast forward only. 変更のない統合先ブランチにマージ  
+- **git stash**:   一時退避
+
