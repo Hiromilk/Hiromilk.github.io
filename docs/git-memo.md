@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "git memo"
-permalink: /docs/git-memo
+title: "report"
+permalink: /docs/report
 ---
 
 # ソフトウェア工学 2024

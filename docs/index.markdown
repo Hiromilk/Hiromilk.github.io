@@ -10,4 +10,4 @@ title: "ソフトウェア工学 2024"
 
 git/github演習
 
-[report memo](/docs/git-memo)
+[report](/docs/report)
